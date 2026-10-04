@@ -153,3 +153,32 @@ Interactive Slicers
 Final Dashboard
 
 ```
+💡 Key Learning
+This project provided practical experience in the complete data analytics workflow:
+Raw Data → Data Cleaning → Data Transformation → Analysis → Visualization → Dashboard
+Through this project, I strengthened my practical understanding of Microsoft Excel and learned how to transform raw business data into structured information that can be analyzed and presented effectively.
+
+🚀 Future Improvements
+The project can be further enhanced by:
+- Recreating the dashboard in Power BI
+- Adding advanced KPIs
+- Adding more interactive filters
+- Performing deeper statistical analysis
+- Connecting the dashboard to a live data source
+- Automating data cleaning using Power Query
+  
+👨‍💻 Author
+Bharath M
+Aspiring Data Analyst
+
+📌 Skills:
+Excel SQL Power BI Python Data Analysis
+🔗 GitHub:
+https://github.com/bharathmurugan
+🔗 LinkedIn:
+https://linkedin.com/in/bharathm12
+
+⭐ Project
+If you find this project useful, feel free to explore the repository and connect with me on LinkedIn.
+Thank you for visiting this project!
+
